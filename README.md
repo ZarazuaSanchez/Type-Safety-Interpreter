@@ -16,8 +16,18 @@ Adding numbers, for example
 6. 50 + 50 -> 100,
 
 gives numbers as results
-But adding a  number and a word does give a result with real-world meaning.
+
+and adding or concatenating strings, for example,
+
+7. "mail" + "box" -> "mailbox"
+8. "24" + "/" + "7" -> "24/7"
+9. "brown" + " " + "eyes" -> "brown eyes",
+
+gives bigger strings like compound word and phrases.
+But these operations
 
 1. 1 + "word" -> ?
 2. 100 + "dog" -> ?
-3. 50 + "hat" -> ?.
+3. 50 + "hat" -> ?
+
+do not give results with real-world meaning.
