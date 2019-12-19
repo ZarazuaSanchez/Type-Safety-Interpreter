@@ -24,7 +24,7 @@ and adding or concatenating strings, for example,
 ```c++
 7. "mail" + "box" -> "mailbox"
 8. "24" + "/" + "7" -> "24/7"
-9. "brown" + " " + "eyes" -> "brown eyes",
+9. "brown" + " " + "eyes" -> "brown eyes"
 ```
 
 gives bigger strings like compound word and phrases.
@@ -37,3 +37,8 @@ But these operations
 ```
 
 do not give results with real-world meaning!
+
+## Usage
+``` terminal
+$ ./checkdatatype file=<file>
+```
