@@ -39,6 +39,6 @@ But these operations
 do not give results with real-world meaning!
 
 ## Usage
-``` terminal
+``` shell
 $ ./checkdatatype file=<file>
 ```
