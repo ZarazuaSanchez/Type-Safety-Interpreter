@@ -1,4 +1,4 @@
-# Data Type Safety
+# Datatype Safety
 
 This interpreter program developed in C++ detects type-unsafe statements in Python source code. A type-unsafe statement is a statement in which there are operations with unlike data types. (Also see type safe languages and type-unsafe languages.) In the following examples,
 
