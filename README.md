@@ -30,4 +30,4 @@ But these operations
 2. 100 + "dog" -> ?
 3. 50 + "hat" -> ?
 
-do not give results with real-world meaning.
+do not give results with real-world meaning!
