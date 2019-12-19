@@ -11,23 +11,29 @@ Let's take a look at operations where we know the results.
 
 Adding numbers, for example
 
+```c++
 4. 100 + 1 -> 101
 5. 0 + 10 -> 10
 6. 50 + 50 -> 100,
+```
 
 gives numbers as results
 
 and adding or concatenating strings, for example,
 
+```c++
 7. "mail" + "box" -> "mailbox"
 8. "24" + "/" + "7" -> "24/7"
 9. "brown" + " " + "eyes" -> "brown eyes",
+```
 
 gives bigger strings like compound word and phrases.
 But these operations
 
+```c++
 1. 1 + "word" -> ?
 2. 100 + "dog" -> ?
 3. 50 + "hat" -> ?
+```
 
 do not give results with real-world meaning!
